@@ -3,7 +3,7 @@ import static org.junit.Assert.*;
 
 public class NumberUtilsTest {
 
-		// тесты для evenOddNumber
+    // С‚РµСЃС‚С‹ РґР»СЏ evenOddNumber
 		
     @Test
     public void testPositiveEvenNumber() {
@@ -40,7 +40,7 @@ public class NumberUtilsTest {
         assertFalse(result);
     }
     
-		// тесты для numberInInterval
+    // С‚РµСЃС‚С‹ РґР»СЏ numberInInterval
     
     @Test
     public void testNumberEqualToLowerBoundary() {
